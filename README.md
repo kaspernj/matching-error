@@ -3,6 +3,8 @@
 ## Usage
 
 ```js
+const matchingError = require("matching-error")
+
 try {
   something()
 } catch (error) {
