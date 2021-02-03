@@ -1,6 +1,6 @@
 const {digg} = require("@kaspernj/object-digger")
 
-module.exports = function isAnError(error, args) {
+module.exports = function matchingError(error, args) {
   let match = true
   let reThrow = false
 
