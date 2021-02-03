@@ -1,0 +1,30 @@
+{
+  "name": "is-an-error",
+  "version": "1.0.0",
+  "description": "A library to test if an error is a certain way when catching.",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaspernj/is-an-error.git"
+  },
+  "keywords": [
+    "error",
+    "catch",
+    "type"
+  ],
+  "author": "k@spernj.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaspernj/is-an-error/issues"
+  },
+  "homepage": "https://github.com/kaspernj/is-an-error#readme",
+  "devDependencies": {
+    "jasmine": "^3.6.4"
+  },
+  "dependencies": {
+    "@kaspernj/object-digger": "^1.0.2"
+  }
+}
