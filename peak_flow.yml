@@ -1,3 +1,9 @@
+paths:
+  - index.cjs
+  - spec/**
+  - package.json
+  - package-lock.json
+  - peak_flow.yml
 before_script:
   - npm install
 script:
