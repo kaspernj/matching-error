@@ -1,5 +1,7 @@
 # matching-error
 
+This README-only change verifies that documentation edits do not select the test build.
+
 ## Usage
 
 ```js
